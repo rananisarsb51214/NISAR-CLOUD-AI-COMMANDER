@@ -1,0 +1,7 @@
+git init
+git add .
+git status
+git commit -m "Initial NISAR CLOUD AI COMMANDER architecture"
+git branch -M main
+git remote add origin https://github.com/rananisarsb51214/NISAR-CLOUD-AI-COMMANDER.git
+git push -u origin main
